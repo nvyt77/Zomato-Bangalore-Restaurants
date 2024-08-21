@@ -1,9 +1,9 @@
 # Zomato Bangalore Restaurants Dataset Analysis
 
-## Introduction
+## Introduction:
 The Zomato Bangalore Restaurants Dataset Analysis aims to provide insight into what people prefer when dining out, especially in Bangalore. This dataset contains detailed information about different restaurants, such as customer ratings, popular dishes, and trending dining styles. By analyzing this data, we aim to help restaurant owners understand their customers better and improve their services.
 
-## Dataset Overview
+## Dataset Overview:
 The dataset consists of the following fields:
 
 - **url**: The website link to the restaurant's Zomato page.
@@ -24,10 +24,10 @@ The dataset consists of the following fields:
 - **listed_in(type)**: Categorization of dining options (e.g., Buffet, Dine-out).
 - **listed_in(city)**: The city in which the restaurant is listed.
 
-## Project Objective
+## Project Objective:
 The main aim of this project is to explore dining habits among Zomato users in Bangalore. By looking at factors like restaurant type, popular cuisines, average ratings, and spending habits, we hope to help restaurants tailor their offerings and marketing strategies to better meet customer needs.
 
-## Processing Steps
+## Processing Steps:
 1. **Data Collection**: Acquire a comprehensive Zomato dataset for analysis.
 2. **Library Setup**: Install and import essential Python libraries, including NumPy, Pandas, Matplotlib, and Seaborn.
 3. **Data Preprocessing**: Import the dataset and clean data by handling missing values and formatting inconsistencies.
@@ -98,7 +98,7 @@ Offline: 8,488
 Online: 9,436
 Offline: 5,902
 
-## Conclusion
+## Conclusion:
 In conclusion, we can see some clear trends in customer ordering habits. First, more customers prefer to place their orders online rather than going to restaurants. When it comes to dining, options like 'Delivery,' 'Dine-out,' and 'Drinks & nightlife' are the most popular choices. Interestingly, customers tend to rate their online dining experiences a bit higher than those they have offline.
 Most restaurants earn an average rating of 3.7, indicating that there’s room for improvement. On average, spending for two plates at a restaurant is about ₹ 555.78. For offline dining, 'Quick Bites,' 'Casual Dining,' and 'Cafes' are the top restaurant types.
 The area with the most orders, both online and offline, is BTM. In terms of food preferences, North Indian and Chinese cuisines lead the way, with many customers ordering them both online and offline. In fact, 'Casual Dining' restaurants are particularly popular, with 7,011 online orders and 3,242 offline orders from this type.
