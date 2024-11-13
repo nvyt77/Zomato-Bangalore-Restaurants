@@ -1,5 +1,8 @@
 # Zomato Bangalore Restaurants Dataset Analysis
 
+## Zomato Bangalore Restaurants Dataset link:
+https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+
 ## Introduction:
 The Zomato Bangalore Restaurants Dataset Analysis aims to provide insight into what people prefer when dining out, especially in Bangalore. This dataset contains detailed information about different restaurants, such as customer ratings, popular dishes, and trending dining styles. By analyzing this data, we aim to help restaurant owners understand their customers better and improve their services.
 
